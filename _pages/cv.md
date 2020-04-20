@@ -37,8 +37,8 @@ Aggregate 95.2%
   
 Technical Skills
 ------
-* Languages :C, C++, Java, Elixir
-* Database :MySQL
-* Tools/Framework :Git, STL, WebGL2, Django, Phoenix, Docker
-* General :Data Structures, Algorithm
+* <b>Languages:</b> C, C++, Java, Elixir
+* <b>Database:</b> MySQL
+* <b>Tools/Framework:</b> Git, STL, WebGL2, Django, Phoenix, Docker
+* <b>General:</b> Data Structures, Algorithm
 
